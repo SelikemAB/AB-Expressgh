@@ -1,0 +1,41 @@
+{
+    "name": "ab-transport",
+    "version": "1.0.0",
+    "description": "Business",
+    "main": "\\",
+    "scripts": {
+        "start": "npm run lite",
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "lite": "lite-server"
+    },
+    "author": "Selikem A. Brown",
+    "license": "MIT",
+    "devDependencies": {
+        "lite-server": "^2.6.1"
+    },
+    "dependencies": {
+        "aos": "^2.3.4",
+        "bootstrap": "^4.6.0",
+        "bootstrap-social": "^5.1.1",
+        "dotenv": "^10.0.0",
+        "express": "^4.17.1",
+        "font-awesome": "^4.7.0",
+        "google-fonts": "^1.0.0",
+        "ionicons": "^5.5.3",
+        "isotope-layout": "^3.0.6",
+        "jquery": "^3.6.0",
+        "multiparty": "^4.2.2",
+        "nodemailer": "^6.6.3",
+        "popper.js": "^1.16.1",
+        "venobox": "^1.9.3"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/SelikemAB/AB-Express.git"
+    },
+    "keywords": [],
+    "bugs": {
+        "url": "https://github.com/SelikemAB/AB-Express/issues"
+    },
+    "homepage": "https://github.com/SelikemAB/AB-Express#readme"
+}
